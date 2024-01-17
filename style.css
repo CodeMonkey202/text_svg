@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    min-height: 100vh;
+    background: rgb(136, 109, 125);
+}
+h2{
+    text-align: center;
+    font-family: "Poppins",sans-serif;
+    font-size: 3em;
+    font-weight: 700;
+    color: white;
+
+}
+h1{
+    font-family: monospace;
+    text-align: center;
+    margin-top: 150px;
+    font-size: 80px;
+    font-weight: 400;
+    color: transparent;
+    background-image: url('f91364568.svg');
+    background-position: center;
+    -webkit-background-clip: text;
+    /* filter: blur(0px);
+    animation: blur 2s infinite;
+    transform: rotate(0deg); */
+}
+/* @keyframes blur {
+    10%{
+        filter: blur(1px);
+        /* transform: rotate(360deg);     }
+    20%{
+        filter: blur(1px);
+    }
+    30%{
+
+    }
+    40%{
+        filter: blur(1px);
+    }
+    50%{
+        filter: blur(1px);
+    }
+    60%{
+        filter: blur(1px);
+    }
+    70%{
+        filter: blur(1px);
+    }
+    80%{
+        filter: blur(10px) brightness(100);
+        filter: grayscale(10px);
+    }
+    90%{
+        filter: blur(0px) sepia(10);
+    }
+    10%{
+        filter: sepia(100);
+     transform: rotate(-359deg); 
+    }
+} */
